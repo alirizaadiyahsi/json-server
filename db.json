@@ -67,7 +67,7 @@
 		{
 			"id": 1,
 			"mobilePhone":"555"
-			"orderProducts":[
+			"orderProducts": [
 				{"productId": 9},
 				{"productId": 10},
 				{"productId": 11}
@@ -76,7 +76,7 @@
 		{
 			"id": 2,
 			"mobilePhone":"555"
-			"orderProducts":[
+			"orderProducts": [
 				{"productId": 12},
 				{"productId": 10},
 				{"productId": 11}
@@ -85,7 +85,7 @@
 		{
 			"id": 3,
 			"mobilePhone":"555"
-			"orderProducts":[
+			"orderProducts": [
 				{"productId": 13},
 				{"productId": 12},
 				{"productId": 11}
@@ -94,7 +94,7 @@
 		{
 			"id": 4,
 			"mobilePhone":"555"
-			"orderProducts":[
+			"orderProducts": [
 				{"productId": 12},
 				{"productId": 13},
 				{"productId": 14}
